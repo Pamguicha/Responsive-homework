@@ -120,3 +120,33 @@ p{
   text-decoration: none;
 }
 
+@media(max-width:700px){
+
+  .yoga-title{
+    text-align: center;
+     margin-top: 10px;
+  }
+
+  .primary-link {
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+.description{
+  text-align: center;
+}
+
+p{
+  font-size: 23px;
+}
+
+.row{
+  margin-left: none;
+}
+
+h1{
+  font-size:68px;
+}
+
+}
+
